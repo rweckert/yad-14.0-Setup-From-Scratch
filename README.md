@@ -2,14 +2,14 @@
 Step-by-step setup installation of YAD 14.0+ from scratch.
 
 ### Preface:
-These instructions provide a step-by-step setup installation of YAD 14.0+ from scratch. The benefits of using YAD 14.0+ are described and illustrated with the following resource: [https://yad-guide.ingk.se](url) by Ingemar Karlsson.
+These instructions provide a step-by-step setup installation of YAD 14.0+ from scratch. The benefits of using YAD 14.0+ are described and illustrated with the following resource: [https://yad-guide.ingk.se](https://yad-guide.ingk.se) by Ingemar Karlsson.
 
 YAD 14.0+ depends on minimal GTK+ version 3.22.0
 
 YAD is authored by Victor Ananjevsky:<br/>
-**Homepage:** [https://github.com/v1cont/yad/](url)<br/>
-**News:** [https://github.com/v1cont/yad/blob/master/NEWS](url)<br/>
-**Download YAD 14.1:** [https://github.com/v1cont/yad/archive/refs/tags/v14.1.zip](url)<br/>
+**Homepage:** [https://github.com/v1cont/yad/](https://github.com/v1cont/yad/)<br/>
+**News:** [https://github.com/v1cont/yad/blob/master/NEWS](https://github.com/v1cont/yad/blob/master/NEWS)<br/>
+**Download YAD 14.1:** [https://github.com/v1cont/yad/archive/refs/tags/v14.1.zip](https://github.com/v1cont/yad/archive/refs/tags/v14.1.zip)<br/>
 
 ### Pre-Requisite Setup:
 
@@ -46,11 +46,11 @@ _sudo add-apt-repository -r "deb http://gb.archive.ubuntu.com/ubuntu jammy main"
 
 ### YAD 14.1 Installation:
 
-**Homepage:** [https://github.com/v1cont/yad/](url)<br/>
-**Download:** [https://github.com/v1cont/yad/archive/refs/tags/v14.1.zip](url)
+**Homepage:** [https://github.com/v1cont/yad/](https://github.com/v1cont/yad/)<br/>
+**Download:** [https://github.com/v1cont/yad/archive/refs/tags/v14.1.zip](https://github.com/v1cont/yad/archive/refs/tags/v14.1.zip)
 
 1) Create a temporary folder and download the following file into that folder:
-[https://github.com/v1cont/yad/archive/refs/tags/v14.1.zip](url)
+[https://github.com/v1cont/yad/archive/refs/tags/v14.1.zip](https://github.com/v1cont/yad/archive/refs/tags/v14.1.zip)
 
 2) Navigate to your temporary folder an unpack the downloaded 'v14.1.zip' file using one of the following commands:<br/>
 2A) Using unzip: _unzip v14.1.zip_<br/>
@@ -88,38 +88,38 @@ Using GTK+ 3.24.41
 ### Pre-Requisite Package Information:
 
 **About libwebkit2gtk-4.0-dev:**
-[https://packages.debian.org/sid/libwebkit2gtk-4.0-dev](url)
+[https://packages.debian.org/sid/libwebkit2gtk-4.0-dev](https://packages.debian.org/sid/libwebkit2gtk-4.0-dev)
 - WebKit is a web content engine, derived from KHTML and KJS from KDE, and used primarily in Apple's Safari browser. It is made to be embedded in other applications, such as mail readers, or web browsers.
 
 **About libgspell-1-dev:**
-[https://packages.debian.org/sid/libgspell-1-dev](url)
+[https://packages.debian.org/sid/libgspell-1-dev](https://packages.debian.org/sid/libgspell-1-dev)
 - gspell provides a flexible API to add spell checking to a GTK+ application.
 
 **About autoconf:**
-[https://www.gnu.org/software/autoconf/](url)
+[https://www.gnu.org/software/autoconf/](https://www.gnu.org/software/autoconf/)
 - Autoconf is an extensible package of M4 macros that produce shell scripts to automatically configure software source code packages.
 
 **About: intltool**
-[https://freedesktop.org/wiki/Software/intltool/](url)
+[https://freedesktop.org/wiki/Software/intltool/](https://freedesktop.org/wiki/Software/intltool/)
 - intltool is a set of tools to centralize translation of many different file formats using GNU gettext-compatible PO files.
 
 **About: build-essential**
-[https://packages.debian.org/sid/build-essential](url)
+[https://packages.debian.org/sid/build-essential](https://packages.debian.org/sid/build-essential)
 - The build-essential package is a reference for all the packages needed to compile a Debian package. It generally includes the GCC/g++ compilers and libraries and some other utilities.
 
 ### Resources:
-- [https://smokey01.com/yad/](url)
-- [https://yad-guide.ingk.se/](url)
-- [https://github.com/v1cont/yad](url)
-- [https://github.com/v1cont/yad/blob/master/NEWS](url)
-- [https://www.mankier.com/1/yad#Widgets_Names](url)
-- [https://forums.bunsenlabs.org/index.php](url)
-- [https://man.archlinux.org/man/yad.1.en](url)
-- [https://man.freebsd.org/cgi/man.cgi?query=yad&sektion=1&manpath=freebsd-release-ports](url)
-- [https://oldforum.puppylinux.com/viewtopic.php?t=97458](url)
-- [https://www.forum.puppylinux.com/search.php?keywords=yad](url)
-- [https://groups.google.com/g/yad-common/](url)
-- [https://eirenicon.org/yad-online-tutorials-etc/](url)
+- [https://smokey01.com/yad/](https://smokey01.com/yad/)
+- [https://yad-guide.ingk.se/](https://yad-guide.ingk.se/)
+- [https://github.com/v1cont/yad](https://github.com/v1cont/yad)
+- [https://github.com/v1cont/yad/blob/master/NEWS](https://github.com/v1cont/yad/blob/master/NEWS)
+- [https://www.mankier.com/1/yad#Widgets_Names](https://www.mankier.com/1/yad#Widgets_Names)
+- [https://forums.bunsenlabs.org/index.php](https://forums.bunsenlabs.org/index.php)
+- [https://man.archlinux.org/man/yad.1.en](https://man.archlinux.org/man/yad.1.en)
+- [https://man.freebsd.org/cgi/man.cgi?query=yad&sektion=1&manpath=freebsd-release-ports](https://man.freebsd.org/cgi/man.cgi?query=yad&sektion=1&manpath=freebsd-release-ports)
+- [https://oldforum.puppylinux.com/viewtopic.php?t=97458](https://oldforum.puppylinux.com/viewtopic.php?t=97458)
+- [https://www.forum.puppylinux.com/search.php?keywords=yad](https://www.forum.puppylinux.com/search.php?keywords=yad)
+- [https://groups.google.com/g/yad-common/](https://groups.google.com/g/yad-common/)
+- [https://eirenicon.org/yad-online-tutorials-etc/](https://eirenicon.org/yad-online-tutorials-etc/)
 
 ### Closing:
 Setup instructions written by: Robert W Eckert - rweckert@gmail.com
