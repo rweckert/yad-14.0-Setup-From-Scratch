@@ -83,6 +83,8 @@ Built with GtkSourceView
 Built with GSpell
 Using GTK+ 3.24.41
 
+![yad --about Screenshot](https://github.com/rweckert/yad-14.0-Setup-From-Scratch/blob/main/yad14.jpg)
+
 ### Pre-Requisite Package Information:
 
 **About libwebkit2gtk-4.0-dev:**
