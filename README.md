@@ -22,7 +22,7 @@ The following items must be installed in order to get the full experience of YAD
 - intltool
 - build-essential
 
-Learn more about these pre-requisite packages below in the 'Pre-Requisite Package Information' section below.
+Learn more about these pre-requisite packages below in the 'Pre-Requisite Package Information' section.
 
 ### Pre-Requisite Installation:
 
@@ -123,6 +123,9 @@ Using GTK+ 3.24.41
 
 ### Closing:
 Setup instructions written by: Robert W Eckert - rweckert@gmail.com
-Created: 02-10-2025 Updated: 04-14-2025
+Created: 02-10-2025 Updated: 04-16-2025
 
 These instructions will be updated with comments from the community or when changes occur. Please feel free to email in submitting bugs, changes or requests.
+
+### Project Page: <br/>
+[https://github.com/rweckert/yad-14.0-Setup-From-Scratch/blob/f54efa13a25aa8618f5f03d0225772d8a5b32239/README.md](https://github.com/rweckert/yad-14.0-Setup-From-Scratch/blob/f54efa13a25aa8618f5f03d0225772d8a5b32239/README.md)
